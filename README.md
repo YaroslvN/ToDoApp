@@ -42,13 +42,15 @@
 
 ## 👨‍💻 Разработчики
 <p align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="./images/Yaroslav.jpg" width="100" style="border-radius: 50%;">
-    <p><b>Yaroslav</b></p>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="./images/Alexey.jpg" width="100" style="border-radius: 50%;">
-    <p><b>Alexey</b></p>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+      <img src="./images/Yaroslav.jpg" width="100" style="border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <p><b>Yaroslav</b></p>
+    </div>
+    <div style="text-align: center;">
+      <img src="./images/Alexey.jpg" width="100" style="border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <p><b>Alexey</b></p>
+    </div>
   </div>
 </p>
 
@@ -62,8 +64,8 @@
 ---
 
 ## 🤝 Контакты
-<p>
-  <b>📧 Email:</b> 
+<p align="left">
+  <b>📧 Email:</b> your_email@example.com  
   <b>🌍 Telegram:</b> @Yaroslav_ny  
   <b>👨‍💻 GitHub:</b> [github.com/YaroslvN](https://github.com/YaroslvN)
 </p>
