@@ -41,19 +41,16 @@
 ---
 
 ## 👨‍💻 Разработчики
-
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
-    <div style="text-align: center; width: 150px;">
-      <img src="./images/Yaroslav.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #ddd; padding: 5px;">
-      <p><b>Yaroslav</b></p>
-    </div>
-    <div style="text-align: center; width: 150px;">
-      <img src="./images/Alexey.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #ddd; padding: 5px;">
-      <p><b>Alexey</b></p>
-    </div>
-  </div>
-</p>
+<table>
+    <tr>
+      <td><b><img src="./images/Yaroslav.jpg"></b></td>
+      <td><b><img src="./images/Alexey.jpg"></b></td>
+    </tr>
+    <tr>
+      <td>Yaroslav</td>
+      <td>Alexey</td>
+    </tr>
+</table>
 
 ---
 
