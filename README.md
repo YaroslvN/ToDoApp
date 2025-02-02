@@ -22,7 +22,7 @@
 
 ## 🛠️ Используемые технологии
 <p align="center">
-  <table>
+  <table style="margin: auto;">
     <tr>
       <td><b>Backend</b></td>
       <td><b>Frontend</b></td>
@@ -41,14 +41,15 @@
 ---
 
 ## 👨‍💻 Разработчики
+
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
     <div style="text-align: center;">
-      <img src="./images/Yaroslav.jpg" width="100" style="border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="./images/Yaroslav.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #ddd; padding: 5px;">
       <p><b>Yaroslav</b></p>
     </div>
     <div style="text-align: center;">
-      <img src="./images/Alexey.jpg" width="100" style="border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="./images/Alexey.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #ddd; padding: 5px;">
       <p><b>Alexey</b></p>
     </div>
   </div>
