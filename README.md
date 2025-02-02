@@ -22,7 +22,7 @@
 
 ## 🛠️ Используемые технологии
 <p align="center">
-  <table style="margin: auto;">
+  <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; margin: 0 auto;">
     <tr>
       <td><b>Backend</b></td>
       <td><b>Frontend</b></td>
@@ -43,12 +43,12 @@
 ## 👨‍💻 Разработчики
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
-    <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
+    <div style="text-align: center; width: 150px;">
       <img src="./images/Yaroslav.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #ddd; padding: 5px;">
       <p><b>Yaroslav</b></p>
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; width: 150px;">
       <img src="./images/Alexey.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #ddd; padding: 5px;">
       <p><b>Alexey</b></p>
     </div>
@@ -65,7 +65,7 @@
 ---
 
 ## 🤝 Контакты
-<p align="left">
+<p style="align-items: center; display: flex; justify-content: start; flex-direction: column;">
   <b>📧 Email:</b> your_email@example.com  
   <b>🌍 Telegram:</b> @Yaroslav_ny  
   <b>👨‍💻 GitHub:</b> [github.com/YaroslvN](https://github.com/YaroslvN)
