@@ -65,8 +65,6 @@
 ---
 
 ## 🤝 Контакты
-<p style="align-items: center; display: flex; justify-content: start; flex-direction: column;">
-  <b>📧 Email:</b> your_email@example.com  
-  <b>🌍 Telegram:</b> @Yaroslav_ny  
-  <b>👨‍💻 GitHub:</b> [github.com/YaroslvN](https://github.com/YaroslvN)
-</p>
+  📧 Email: your_email@example.com  
+  🌍 Telegram: @Yaroslav_ny  
+  👨‍💻 GitHub: [github.com/YaroslvN](https://github.com/YaroslvN)
