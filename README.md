@@ -21,27 +21,49 @@
 ---
 
 ## 🛠️ Используемые технологии
-
-| **Backend** | **Frontend** | **База данных** | **Аутентификация** |
-|------------|------------|----------------|----------------|
-| ASP.NET Core MVC | HTML, CSS, Bootstrap | Microsoft SQL Server | Identity Framework |
+<p align="center">
+  <table>
+    <tr>
+      <td><b>Backend</b></td>
+      <td><b>Frontend</b></td>
+      <td><b>База данных</b></td>
+      <td><b>Аутентификация</b></td>
+    </tr>
+    <tr>
+      <td>ASP.NET Core MVC</td>
+      <td>HTML, CSS, Bootstrap</td>
+      <td>Microsoft SQL Server</td>
+      <td>Identity Framework</td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-👨‍💻 Разработчики
-
-<img src="./images/Yaroslav.jpg" width="100">
-Yaroslav
-<img src="./images/Alexey.jpg" width="100">
-Alexey
-
-📷 Скриншоты
-<p align="center"> 
-<img src="./images/banner.jpg" width="45%"> 
+## 👨‍💻 Разработчики
+<p align="center">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="./images/Yaroslav.jpg" width="100" style="border-radius: 50%;">
+    <p><b>Yaroslav</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="./images/Alexey.jpg" width="100" style="border-radius: 50%;">
+    <p><b>Alexey</b></p>
+  </div>
 </p>
 
-🤝 Контакты
-📧 Email: 
-🌍 Telegram: @Yaroslav_ny
-👨‍💻 GitHub: github.com/YaroslvN
+---
 
+## 📷 Скриншоты
+<p align="left">
+  <img src="./images/banner.jpg" width="45%">
+</p>
+
+---
+
+## 🤝 Контакты
+<p>
+  <b>📧 Email:</b> 
+  <b>🌍 Telegram:</b> @Yaroslav_ny  
+  <b>👨‍💻 GitHub:</b> [github.com/YaroslvN](https://github.com/YaroslvN)
+</p>
