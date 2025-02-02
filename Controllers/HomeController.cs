@@ -18,7 +18,7 @@ namespace ToDoApp.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Register()
         {
             return View();
         }
